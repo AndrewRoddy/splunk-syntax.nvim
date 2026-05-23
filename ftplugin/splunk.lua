@@ -1,1 +1,1 @@
-vim.bo.commentstring = '`comment(%s)`'
+vim.bo.commentstring = '```%s```'
